@@ -1,0 +1,3 @@
+Hệ thống tra cứu Thuốc & Cảnh báo Tương tác là một giải pháp ứng dụng Trí tuệ nhân tạo (AI) và công nghệ Tìm kiếm dữ liệu lớn nhằm hỗ trợ người dùng tra cứu nhanh thông tin dược phẩm và phát hiện sớm các nguy cơ tương tác thuốc bất lợi.
+
+Thay vì phải nhập liệu thủ công các tên thuốc dài và phức tạp dễ gây nhầm lẫn, hệ thống cho phép người dùng chụp ảnh trực tiếp vỏ hộp thuốc, vỉ thuốc hoặc đơn thuốc. Thông qua quy trình xử lý thị giác máy tính (Computer Vision) và nhận dạng ký tự quang học (OCR), ứng dụng tự động trích xuất tên thuốc, chuẩn hóa dữ liệu và truy xuất thông tin chi tiết từ cơ sở dữ liệu dược phẩm Việt Nam, đồng thời đưa ra cảnh báo tức thì nếu các loại thuốc được sử dụng chung có phản ứng tương tác nguy hiểm.
